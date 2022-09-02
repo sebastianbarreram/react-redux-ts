@@ -16,4 +16,4 @@ const reducer = (state: number = initialState, action: Action): number => {
     }
 }
 
-export default reducer
+export default reducer;
