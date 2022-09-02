@@ -6,4 +6,4 @@ const reducers = combineReducers({
     bank: bankReducer
 })
 
-export default reducers
+export default reducers:
